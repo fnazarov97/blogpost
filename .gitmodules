@@ -1,3 +1,6 @@
 [submodule "blogpost_api_gateway"]
 	path = blogpost_api_gateway
 	url = git@github.com:fnazarov97/blogpost_api_gateway.git
+[submodule "blogpost_service"]
+	path = blogpost_service
+	url = git@github.com:fnazarov97/blogpost_service.git
