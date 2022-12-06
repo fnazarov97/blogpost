@@ -1,3 +1,0 @@
-[submodule "blogpost_service"]
-	path = blogpost_service
-	url = git@github.com:fnazarov97/blogpost_service.git
